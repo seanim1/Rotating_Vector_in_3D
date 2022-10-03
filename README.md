@@ -1,4 +1,4 @@
-Link: (https://seanim1.github.io/Inverse-Kinematics_2-Links_2D/)
+Link: (https://seanim1.github.io/Rotating_Vector_in_3D/)
 
 
 Copyright Sean Im
